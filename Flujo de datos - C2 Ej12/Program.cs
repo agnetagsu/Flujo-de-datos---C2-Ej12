@@ -6,10 +6,9 @@ namespace Flujo_de_datos___C2_Ej12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Escribe tu nombre");
-            string nombre = Console.ReadLine();
+            string nombre = "Agneta";
            
-            Console.WriteLine("Bienvenido " + nombre);
+            Console.WriteLine("Bienvenida " + nombre);
         }
     }
 }
